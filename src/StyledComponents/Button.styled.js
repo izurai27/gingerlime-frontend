@@ -7,7 +7,7 @@ const ButtonStyled = styled.button`
   outline:none;
   border:none;
   justify-content: center;
-  background-color: hsl(var(--clr-dark)) ;
+  background-color: hsl(var(--clr-cta)) ;
   color: hsl(var(--clr-white)) ;
   cursor: pointer;
 `

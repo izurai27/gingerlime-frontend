@@ -4,8 +4,9 @@
 
 :root{
   --clr-dark: 230 35% 7%;
-  --clr-light: 231 77% 90%;
+  --clr-light: 205, 100%, 90%;
   --clr-white: 0 0% 100%;
+  --clr-cta: 203, 58%, 25%;
 
   /* font-sizes   */
   --fs-900 : 9.375rem;
@@ -197,4 +198,8 @@ select {
   color: hsl(var(--clr-white) / 0.25);  
   margin-right:.5em;
   font-weight: 700;
+}
+
+.text-center{
+  text-align: center;
 }
