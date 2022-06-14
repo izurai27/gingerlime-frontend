@@ -1,14 +1,18 @@
 import React from 'react'
+import NavbarStyled from '../StyledComponents/Navbar.styled'
 
 const Navbar = () => {
   return (
-    <ul>
-      <li>Fabric</li>
-      <li>Fashion</li>
-      <li>Living And Decor</li>
-      <li>How It Works</li>
-      <li>Help</li>
-    </ul>
+    <NavbarStyled>
+      <span>Fabric</span>
+      <span>Bags</span>
+      <span>Masks</span>
+      <span>Living And Decor</span>
+      <span>How It Works</span>
+      <span>Help</span>
+
+    </NavbarStyled>
+    
   )
 }
 
