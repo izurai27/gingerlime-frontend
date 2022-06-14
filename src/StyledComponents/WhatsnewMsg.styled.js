@@ -7,7 +7,7 @@ const WhatsnewMsgStyled = styled.div`
   background: hsl(var(--clr-white) / 0.95);
   width: 30rem;
   height: fit-content;
-  padding: 2em;
+  padding: 3em;
   margin-inline:auto;
   text-align: center;
   border-radius: 5px;
