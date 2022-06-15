@@ -8,7 +8,7 @@ import PlainLinkStyled from '../StyledComponents/PlainLink.styled'
 const InspiringUs = () => {
   return (
     <div>
-      <div className='text-center'>Inspiring Us</div>
+      <div className='text-center uppercase fs-400'>Inspiring Us</div>
       <Gap height="20px"/>
       <ContainerStyled display="flex" gap="30px" wrap="wrap">
         {inspiringUsData.map(el => {

@@ -16,15 +16,17 @@ function App() {
       <Navbar/>
 
       <WhatsNew/>
-      <Gap height="30px"/>
+      <Gap height="4rem"/>
       <GLintro/>
-      <Gap height="30px"/>
+      <Gap height="4rem"/>
       <FinishedProduct/>
-      <Gap height="30px"/>
+      <Gap height="4rem"/>
       <InspiringUs/>
-      <Gap height="30px"/>
+      <Gap height="4rem"/>
       <About/>
+      <Gap height="4rem"/>
       <ContactUs/>
+      <Gap height="4rem"/>
       <Socmed/>
     </div>
   );
