@@ -17,6 +17,7 @@
   --fs-400 : 1.125rem;
   --fs-300 : 1rem;
   --fs-200 : 0.875rem;
+  --fs-100 : 0.7rem;
 
   /* font-families */
   --ff-serif: "Bellefair", serif;
@@ -178,6 +179,7 @@ select {
 .fs-400 { font-size: var(--fs-400);}
 .fs-300 { font-size: var(--fs-300);}
 .fs-200 { font-size: var(--fs-200);}
+.fs-100 { font-size: var(--fs-100);}
 
 .fs-900,
 .fs-800,

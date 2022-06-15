@@ -22,6 +22,7 @@ function App() {
       <FinishedProduct/>
       <Gap height="30px"/>
       <InspiringUs/>
+      <Gap height="30px"/>
       <About/>
       <ContactUs/>
       <Socmed/>
